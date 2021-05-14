@@ -13,3 +13,9 @@
 <h4 id="status" align="center"> 
 	👨🏾‍💻  Desafio concluído! O jogo está pronto!
 </h4>
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [C++](https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160)
