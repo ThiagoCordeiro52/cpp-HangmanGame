@@ -14,8 +14,12 @@
 	👨🏾‍💻  Desafio concluído! O jogo está pronto!
 </h4>
 
-### 🛠 Tecnologias
+<h4 id="status" align="center"> 
+	🛠 Tecnologias
+</h4> 
 
-As seguintes ferramentas foram usadas na construção do projeto:
+<p align="center"> As seguintes ferramentas foram usadas na construção do projeto: </p>
 
-- [C++](https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160)
+<ul align="center">
+    <li> <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160"> C++ </a> </li>
+ </ul>
