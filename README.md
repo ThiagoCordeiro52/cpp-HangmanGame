@@ -18,8 +18,5 @@
 	🛠 Tecnologias
 </h4> 
 
-<p align="center"> As seguintes ferramentas foram usadas na construção do projeto: </p>
+<p align="center"> As seguintes ferramentas foram usadas na construção do projeto: <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160"> C++ </a> </p>
 
-<ul align="center">
-    <li > <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160"> C++ </a> </li>
- </ul>
