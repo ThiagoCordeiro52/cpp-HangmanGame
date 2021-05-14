@@ -8,7 +8,7 @@
   <a href="https://github.com/ThiagoOliveiraCordeiro">
     <img alt="Feito pelo Thiago Oliviera" src="https://img.shields.io/badge/feito%20por-Thiago Oliveira-%237519C1?style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/cocoapods/l/m"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/cocoapods/l/m?style=for-the-badge>
 <p>
 <h4 id="status" align="center"> 
 	👨🏾‍💻  Desafio concluído! O jogo está pronto!
