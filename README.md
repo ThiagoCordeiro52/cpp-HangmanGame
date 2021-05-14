@@ -21,5 +21,5 @@
 <p align="center"> As seguintes ferramentas foram usadas na construção do projeto: </p>
 
 <ul align="center">
-    <li> <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160"> C++ </a> </li>
+    <li align="center"> <a align="center" href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160"> C++ </a> </li>
  </ul>
