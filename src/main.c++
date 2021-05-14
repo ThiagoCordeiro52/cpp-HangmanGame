@@ -1,4 +1,5 @@
 #include <iostream>
+#include <stdlib.h>
 using namespace std;
 
 int main() {
@@ -55,10 +56,10 @@ int main() {
     }
 
     if (hits == lengthWord) {
-        system("clear");
+        system("clear||cls");
         cout << endl << endl << "Parabéns! Você venceu! 😎" << endl << endl;
     } else {
-        system("clear");
+        system("clear||cls");
         cout << endl << endl << "Que pena! Tente outra vez! Você perdeu. 😭" << endl << endl;
     }
 
